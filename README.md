@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren Mollaoğlu</h1>
-<h3 align="center">A student in Turkey, I working</h3>
+<h3 align="center">A student in Turkey, I working on flutter</h3>
 
-- 💬 Ask me about **I am a person who is open to innovation, fast learner, fast understanding and enjoys the software industry and has fun while writing code. I am currently working on Flutter, I am studying at Kırklareli University Software Engineering department, and I am also a member of Google Developer Group Core Team of our university.**
+- 💬 **I am a person who is open to innovation, fast learner, fast understanding and enjoys the software industry and has fun while writing code. I am currently working on Flutter, I am studying at Kırklareli University Software Engineering department, and I am also a member of Google Developer Group Core Team of our university.**
 
 - 📫 How to reach me **eren.mollaoglu@outlook.com**
 
