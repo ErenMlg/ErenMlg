@@ -3,7 +3,7 @@
 
 - 💬 (EN)**I am a person who is open to innovation, fast learner, fast understanding and enjoys the software industry and has fun while writing code. I am currently working on Flutter, I am studying at Kırklareli University Software Engineering department, and I am also a member of Google Developer Group Core Team of our university.**
 
-- 💬 (TR)**Yeniliğe açık, hızlı öğrenen, hızlı kavrayan ve yazılım sektöründen keyif alan kod yazarken eğlenen birisiyim. Şu anda Flutter üzerine çalışmaktayım aynı zamanda Kırklareli Üniversitesi Yazılım Mühendisliği bölümünde eğitim görmekteyim aynı zamanda üniversitemizin Google Developer Group Core Team üyesi olarak faaliyet yürütmekteyim.**
+- 💬 (TR)**Yeniliğe açık, hızlı öğrenen, hızlı kavrayan ve yazılım sektöründen keyif alan kod yazarken eğlenen birisiyim. Şu anda Flutter üzerine çalışmaktayım . Kırklareli Üniversitesi Yazılım Mühendisliği bölümünde eğitim görmekteyim aynı zamanda üniversitemizin Google Developer Group Core Team üyesi olarak faaliyet yürütmekteyim.**
 
 - 📫 How to reach me **eren.mollaoglu@outlook.com**
 
