@@ -1,6 +1,6 @@
 <img src="https://i.redd.it/efvudwjgyrwa1.gif">
 <h1 align="center">Hi 👋, I'm Eren Mollaoğlu</h1>
-<h3 align="center">A Software Engineer Student, I working on Kotlin</h3>
+<h3 align="center">A Software Engineer Student, working on Kotlin</h3>
 
 - 💬 (EN)**I am a person who is open to innovation, fast learner, fast understanding and enjoys the software industry and has fun while writing code. I am currently working on Kotlin, I am studying at Kırklareli University Software Engineering department, and I am also a old member of Google Developer Group Core Team of our university.**
 
