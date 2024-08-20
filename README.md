@@ -14,6 +14,7 @@
 <a href="https://linkedin.com/in/eren-mollaoğlu-362b83234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eren-mollaoğlu-362b83234/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20291658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20291658" height="30" width="40" /></a>
 <a href="https://instagram.com/mollaoglu.ern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mollaoglu.ern" height="30" width="40" /></a>
+<a href="https://medium.com/@eren.mollaoglu"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/768px-Medium_logo_Monogram.svg.png" alt="mollaoglu.ern" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
