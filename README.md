@@ -1,30 +1,45 @@
-<img src="https://i.redd.it/efvudwjgyrwa1.gif">
+<img src="https://github.com/user-attachments/assets/5b6cac32-7465-4bf1-89b7-eed81adc59fb">
+
 <h1 align="center">Hi 👋, I'm Eren Mollaoğlu</h1>
-<h3 align="center">A Software Engineer Student, working on Kotlin</h3>
+<h3 align="center">Software Engineer | Android • Backend • DevOps</h3>
 
-- 💬 (EN)**I am a person who is open to innovation, fast learner, fast understanding and enjoys the software industry and has fun while writing code. I am currently working on Kotlin, I am studying at Kırklareli University Software Engineering department, and I am also a old member of Google Developer Group Core Team of our university.**
+---
 
-- 💬 (TR)**Yeniliğe açık, hızlı öğrenen, hızlı kavrayan ve yazılım sektöründen keyif alan kod yazarken eğlenen birisiyim. Şu anda Kotlin üzerine çalışmaktayım . Kırklareli Üniversitesi Yazılım Mühendisliği bölümünde eğitim görmekteyim aynı zamanda üniversitemizin Google Developer Group Core Team üyesi olarak faaliyet yürüttüm.**
+### 🚀 About Me
+- 📱 I have **freelance experience in Android Development**, building real-world mobile applications with Kotlin and Flutter.  
+- ⚙️ I have **hands-on DevOps experience**, working with monitoring & observability tools such as Grafana, New Relic, and OpenSearch.  
+- 🖥️ Currently, I am working as a **Backend Developer with Python & Django**, focusing on scalable backend systems.  
+- 🌍 I believe that **software development is independent of programming language** – problem-solving and mindset matter more than syntax.  
+- 🎓 I am studying **Software Engineering at Kırklareli University**.  
+- 💡 Former **Google Developer Group Core Team Member** at my university.  
+- 🏆 Passionate about combining **mobile apps + AI + DevOps practices** to deliver high-quality solutions.  
 
-- 📫 How to reach me **eren.mollaoglu@outlook.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://twitter.com/mollaoglueren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mollaoglueren" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eren-mollaoğlu-362b83234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eren-mollaoğlu-362b83234/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20291658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20291658" height="30" width="40" /></a>
-<a href="https://instagram.com/mollaoglu.ern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mollaoglu.ern" height="30" width="40" /></a>
-<a href="https://medium.com/@eren.mollaoglu"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/768px-Medium_logo_Monogram.svg.png" alt="mollaoglu.ern" height="30" width="40" /></a>
+<a href="https://twitter.com/mollaoglueren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eren-mollaoğlu-362b83234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20291658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/mollaoglu.ern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://medium.com/@eren.mollaoglu"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/768px-Medium_logo_Monogram.svg.png" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
-<img src="https://www.gstatic.com/devrel-devsite/prod/v6f23042ee535b54d461e0cc5c1cc12493e4d0aea4f2d54a7a63063da7859ead0/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;">
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a></p>
+---
 
+### 🛠️ Languages & Tools
+<p align="left">
+<a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+<a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://grafana.com/"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
+<a href="https://prometheus.io/"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
+</p>
+
+---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ErenMlg)
-
